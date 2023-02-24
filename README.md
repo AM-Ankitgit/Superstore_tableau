@@ -1,9 +1,9 @@
-# Superstore_tableau
+# TABLEAU_DATA_VISUALIZATION_AND_KEY_FINDINGS
 Config files for my GitHub profile.
 
 
 
- We perform root cause analysis on the superstore data 
+ perform root cause analysis on the superstore data 
  
  after visulizating data we come with below solution
 
